@@ -36,6 +36,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   erubis
@@ -50,5 +51,3 @@ RUBY VERSION
 
 BUNDLED WITH
    2.5.7
-
-bundle lock --add-platform x86_64-linux
